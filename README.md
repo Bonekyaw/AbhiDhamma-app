@@ -1,6 +1,6 @@
 # privacy-policy
 
-This application is named Abhidhamma iOS.   
+This application is named Abhidhamma.  
 It was developed by Ko Phone Nyo, a member of CodeCafe Lab, as a meritorious act.   
 Anyone can use this application for free, and no one is allowed to sell or distribute it for a fee.    
 
